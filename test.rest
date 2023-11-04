@@ -1,0 +1,1 @@
+GET http://api.aviationstack.com/v1/flights?access_key=XXXXXXXXXXXXXXX
